@@ -27,9 +27,13 @@ streamlit run app.py
 
 # Usage
 Open the application in your web browser.
+
 Upload your PDF or DOCX files using the sidebar.
+
 Enter your OpenAI API key.
+
 Click "Process" to analyze the documents.
+
 Ask questions about the content of your files and get instant responses.
 
 # Screenshots
