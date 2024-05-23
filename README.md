@@ -11,7 +11,7 @@ Session Memory: Maintains conversation history to provide contextually relevant 
 Cost Tracking: Displays token usage and cost for interactions using the OpenAI API.
 
 # Installation
-git clone https://github.com/yourusername/chat-with-pdf.git
+https://github.com/attaelahi/Chat-with-PDF.git
 cd chat-with-pdf
 pip install -r requirements.txt
 streamlit run app.py
