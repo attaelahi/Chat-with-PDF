@@ -12,8 +12,11 @@ Cost Tracking: Displays token usage and cost for interactions using the OpenAI A
 
 # Installation
 https://github.com/attaelahi/Chat-with-PDF.git
+
 cd chat-with-pdf
+
 pip install -r requirements.txt
+
 streamlit run app.py
 
 # Usage
