@@ -3,11 +3,17 @@ Chat with PDF is a Streamlit application that allows users to upload PDF and DOC
 
 # Features
 Upload Files: Supports both PDF and DOCX file formats.
+
 Text Extraction: Extracts text from the uploaded files using PyPDF2 for PDFs and python-docx for DOCX files.
+
 Text Chunking: Splits extracted text into manageable chunks for better processing.
+
 Vector Store Creation: Utilizes HuggingFaceEmbeddings and FAISS for vector storage and retrieval.
+
 Conversational Interface: Allows users to ask questions about the content of their files and receive responses in real-time.
+
 Session Memory: Maintains conversation history to provide contextually relevant responses.
+
 Cost Tracking: Displays token usage and cost for interactions using the OpenAI API.
 
 # Installation
